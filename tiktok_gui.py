@@ -30,7 +30,18 @@ except ImportError:
         print("Make sure tiktok_generator.py exists in the same directory.")
         print("Current directory:", os.getcwd())
         print("Files in directory:", os.listdir('.'))
-        sys.exit(1)
+        print("\nTrying to import directly...")
+        
+        # Try importing the module directly
+        import importlib.util
+        spec = importlib.util.spec_from_file_location("tiktok_generator", "tiktok_generator.py")
+        if spec and spec.loader:
+            tiktok_generator = importlib.util.module_from_spec(spec)
+            spec.loader.exec_module(tiktok_generator)
+            TikTokVideoGenerator = tiktok_generator.TikTokVideoGenerator
+            create_placeholder_images = tiktok_generator.create_placeholder_images
+        else:
+            sys.exit(1)
 
 class TikTokGeneratorGUI:
     def __init__(self, root):

@@ -4,14 +4,7 @@ A comprehensive Python tool for automatically generating TikTok-style quiz video
 
 ## Features
 
-- 🎥 **TikTok-Optimized**: Automatically formats videos for TikTok's 9:16 aspect ratio (1080×1920)
-- 🗣️ **Text-to-Speech**: Uses ElevenLabs API for high-quality voice generation
-- 🖼️ **Smart Image Processing**: Automatically resizes and pads images to fit TikTok format
-- ✨ **Professional Effects**: Fade-in/fade-out animations, text styling, and smooth transitions
-- ⏱️ **Pause Clips**: Built-in pause segments between questions with optional clock sound effects
-- 🎛️ **Easy Configuration**: JSON-based configuration for easy customization
-- 🖥️ **GUI Interface**: User-friendly Tkinter interface for non-technical users
-- 📝 **Command Line**: Full command-line interface for automation and scripting
+A quick couple quiz generator using Elevenlabs api calls, numpy, pillow, moviepy etc. For automating the tikTok process. Make sure that you have Python 3.11 from the official python website and not via homebrew. 
 
 ## Quick Start
 
