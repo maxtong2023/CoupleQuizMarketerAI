@@ -56,3 +56,179 @@
 2025-08-15 23:27:40,805 - INFO - Writing final video to output/tiktok_quiz_video.mp4...
 2025-08-15 23:27:51,003 - INFO - Video generation complete: output/tiktok_quiz_video.mp4
 2025-08-15 23:27:51,004 - INFO - Cleaned up placeholder image: output/placeholder_question_1.jpg
+2025-08-15 23:47:32,951 - INFO - Configuration loaded from config.json
+2025-08-15 23:47:32,951 - INFO - Initialized TikTok Video Generator with config: config.json
+2025-08-15 23:47:32,952 - INFO - Output directory: output
+2025-08-15 23:47:32,963 - INFO - Starting video generation...
+2025-08-15 23:47:32,963 - INFO - Generating hook clip...
+2025-08-15 23:47:34,341 - INFO - TTS audio generated: output/hook.mp3
+2025-08-15 23:47:34,957 - INFO - Generating clip for question 1...
+2025-08-15 23:47:35,546 - INFO - TTS audio generated: output/question_1.mp3
+2025-08-15 23:47:35,845 - INFO - Image resized and saved to output/resized_Screenshot 2025-08-14 at 4.36.35 PM.png
+2025-08-15 23:47:36,014 - INFO - Concatenating video clips...
+2025-08-15 23:47:36,031 - INFO - Writing final video to output/tiktok_quiz_video.mp4...
+2025-08-15 23:47:45,919 - INFO - Video generation complete: output/tiktok_quiz_video.mp4
+2025-08-16 01:03:27,969 - INFO - Configuration loaded from config.json
+2025-08-16 01:03:27,970 - INFO - Initialized TikTok Video Generator with config: config.json
+2025-08-16 01:03:27,970 - INFO - Output directory: output
+2025-08-16 01:03:27,970 - INFO - Using font: fonts/Renogare-Regular.ttf
+2025-08-16 01:03:27,978 - INFO - Starting video generation...
+2025-08-16 01:03:27,997 - WARNING - Falling back to default font. Missing or invalid font at fonts/Renogare-Regular.ttf
+2025-08-16 01:03:28,007 - ERROR - Error generating video: 'ImageDraw' object has no attribute 'textsize'
+2025-08-16 01:04:12,339 - INFO - Configuration loaded from config.json
+2025-08-16 01:04:12,340 - INFO - Initialized TikTok Video Generator with config: config.json
+2025-08-16 01:04:12,340 - INFO - Output directory: output
+2025-08-16 01:04:12,341 - INFO - Using font: fonts/Renogare-Regular.ttf
+2025-08-16 01:04:12,354 - INFO - Starting video generation...
+2025-08-16 01:04:12,373 - WARNING - Falling back to default font. Missing or invalid font at fonts/Renogare-Regular.ttf
+2025-08-16 01:04:12,373 - ERROR - Error generating video: 'ImageDraw' object has no attribute 'textsize'
+2025-08-16 01:09:35,199 - INFO - Configuration loaded from config.json
+2025-08-16 01:09:35,199 - INFO - Initialized TikTok Video Generator with config: config.json
+2025-08-16 01:09:35,199 - INFO - Output directory: output
+2025-08-16 01:09:35,199 - INFO - Using font: fonts/Renogare-Regular.otf
+2025-08-16 01:09:35,208 - INFO - Starting video generation...
+2025-08-16 01:09:35,208 - ERROR - Error generating video: Number of questions (2) must match number of image pairs (1)
+2025-08-16 01:09:53,104 - INFO - Configuration loaded from config.json
+2025-08-16 01:09:53,105 - INFO - Initialized TikTok Video Generator with config: config.json
+2025-08-16 01:09:53,105 - INFO - Output directory: output
+2025-08-16 01:09:53,105 - INFO - Using font: fonts/Renogare-Regular.otf
+2025-08-16 01:09:53,114 - INFO - Starting video generation...
+2025-08-16 01:09:53,133 - ERROR - Error generating video: 'float' object cannot be interpreted as an integer
+2025-08-16 01:10:05,437 - INFO - Configuration loaded from config.json
+2025-08-16 01:10:05,437 - INFO - Initialized TikTok Video Generator with config: config.json
+2025-08-16 01:10:05,437 - INFO - Output directory: output
+2025-08-16 01:10:05,437 - INFO - Using font: fonts/Renogare-Regular.otf
+2025-08-16 01:10:05,437 - INFO - Starting video generation...
+2025-08-16 01:10:05,455 - ERROR - Error generating video: 'float' object cannot be interpreted as an integer
+2025-08-16 01:14:00,438 - INFO - Configuration loaded from config.json
+2025-08-16 01:14:00,442 - INFO - Initialized TikTok Video Generator with config: config.json
+2025-08-16 01:14:00,442 - INFO - Output directory: output
+2025-08-16 01:14:00,442 - INFO - Using font: fonts/Renogare-Regular.otf
+2025-08-16 01:14:00,450 - INFO - Starting video generation...
+2025-08-16 01:14:00,450 - ERROR - Error generating video: Number of questions (2) must match number of image pairs (1)
+2025-08-16 01:14:10,630 - INFO - Configuration loaded from config.json
+2025-08-16 01:14:10,631 - INFO - Initialized TikTok Video Generator with config: config.json
+2025-08-16 01:14:10,631 - INFO - Output directory: output
+2025-08-16 01:14:10,631 - INFO - Using font: fonts/Renogare-Regular.otf
+2025-08-16 01:14:10,643 - INFO - Starting video generation...
+2025-08-16 01:14:10,657 - DEBUG - Creating text clip: 'Couples Quiz!...' at position (54, 220)
+2025-08-16 01:14:10,661 - ERROR - Error generating video: 'float' object cannot be interpreted as an integer
+2025-08-16 01:14:27,324 - INFO - Configuration loaded from config.json
+2025-08-16 01:14:27,324 - INFO - Initialized TikTok Video Generator with config: config.json
+2025-08-16 01:14:27,324 - INFO - Output directory: output
+2025-08-16 01:14:27,324 - INFO - Using font: fonts/Renogare-Regular.otf
+2025-08-16 01:14:27,341 - INFO - Starting video generation...
+2025-08-16 01:14:27,355 - DEBUG - Creating text clip: 'Couples Quiz!...' at position (54, 220)
+2025-08-16 01:14:27,356 - ERROR - Error generating video: 'float' object cannot be interpreted as an integer
+2025-08-16 01:17:14,581 - INFO - Configuration loaded from config.json
+2025-08-16 01:17:14,582 - INFO - Initialized TikTok Video Generator with config: config.json
+2025-08-16 01:17:14,582 - INFO - Output directory: output
+2025-08-16 01:17:14,582 - INFO - Using font: fonts/Renogare-Regular.otf
+2025-08-16 01:17:14,595 - INFO - Starting video generation...
+2025-08-16 01:17:14,611 - DEBUG - Creating text clip: 'Couples Quiz!...' at position (54, 220)
+2025-08-16 01:17:14,612 - DEBUG - Rendering text image: 'Couples Quiz!...' with font_size=96, max_width=972
+2025-08-16 01:17:14,612 - DEBUG - Loading font from fonts/Renogare-Regular.otf with size 96
+2025-08-16 01:17:14,614 - DEBUG - Font loaded successfully: <PIL.ImageFont.FreeTypeFont object at 0x1347fae10>
+2025-08-16 01:17:14,623 - DEBUG - Creating text clip: 'Today's theme is:...' at position (54, 420)
+2025-08-16 01:17:14,623 - DEBUG - Rendering text image: 'Today's theme is:...' with font_size=80, max_width=972
+2025-08-16 01:17:14,623 - DEBUG - Loading font from fonts/Renogare-Regular.otf with size 80
+2025-08-16 01:17:14,623 - DEBUG - Font loaded successfully: <PIL.ImageFont.FreeTypeFont object at 0x13508f6d0>
+2025-08-16 01:17:14,628 - DEBUG - Creating text clip: 'General...' at position (54, 560)
+2025-08-16 01:17:14,628 - DEBUG - Rendering text image: 'General...' with font_size=88, max_width=972
+2025-08-16 01:17:14,628 - DEBUG - Loading font from fonts/Renogare-Regular.otf with size 88
+2025-08-16 01:17:14,628 - DEBUG - Font loaded successfully: <PIL.ImageFont.FreeTypeFont object at 0x13462b690>
+2025-08-16 01:17:14,654 - INFO - Generating hook clip...
+2025-08-16 01:17:14,658 - DEBUG - Starting new HTTPS connection (1): api.elevenlabs.io:443
+2025-08-16 01:17:15,804 - DEBUG - https://api.elevenlabs.io:443 "POST /v1/text-to-speech/pNInz6obpgDQGcFmaJgB HTTP/1.1" 200 None
+2025-08-16 01:17:15,833 - INFO - TTS audio generated: output/hook.mp3
+2025-08-16 01:17:16,136 - DEBUG - Creating text clip: 'If you're partner gets more th...' at position (54, 880)
+2025-08-16 01:17:16,136 - DEBUG - Rendering text image: 'If you're partner gets more th...' with font_size=80, max_width=972
+2025-08-16 01:17:16,136 - DEBUG - Loading font from fonts/Renogare-Regular.otf with size 80
+2025-08-16 01:17:16,137 - DEBUG - Font loaded successfully: <PIL.ImageFont.FreeTypeFont object at 0x13509e390>
+2025-08-16 01:17:16,182 - DEBUG - Creating text clip: 'save and share this with them!...' at position (54, 880)
+2025-08-16 01:17:16,182 - DEBUG - Rendering text image: 'save and share this with them!...' with font_size=84, max_width=972
+2025-08-16 01:17:16,182 - DEBUG - Loading font from fonts/Renogare-Regular.otf with size 84
+2025-08-16 01:17:16,182 - DEBUG - Font loaded successfully: <PIL.ImageFont.FreeTypeFont object at 0x1350a9f90>
+2025-08-16 01:17:16,216 - INFO - Generating clip for question 1...
+2025-08-16 01:17:16,217 - DEBUG - Starting new HTTPS connection (1): api.elevenlabs.io:443
+2025-08-16 01:17:16,723 - DEBUG - https://api.elevenlabs.io:443 "POST /v1/text-to-speech/pNInz6obpgDQGcFmaJgB HTTP/1.1" 200 None
+2025-08-16 01:17:16,727 - INFO - TTS audio generated: output/question_1.mp3
+2025-08-16 01:17:16,727 - DEBUG - Creating question clip for: 'Steak or sushi?...'
+2025-08-16 01:17:16,942 - DEBUG - STREAM b'IHDR' 16 13
+2025-08-16 01:17:16,942 - DEBUG - STREAM b'iCCP' 41 3148
+2025-08-16 01:17:16,942 - DEBUG - iCCP profile name b'ICC Profile'
+2025-08-16 01:17:16,942 - DEBUG - Compression method 0
+2025-08-16 01:17:16,942 - DEBUG - STREAM b'eXIf' 3201 138
+2025-08-16 01:17:16,942 - DEBUG - STREAM b'pHYs' 3351 9
+2025-08-16 01:17:16,942 - DEBUG - STREAM b'iTXt' 3372 472
+2025-08-16 01:17:16,942 - DEBUG - STREAM b'iDOT' 3856 28
+2025-08-16 01:17:16,942 - DEBUG - b'iDOT' 3856 28 (unknown)
+2025-08-16 01:17:16,942 - DEBUG - STREAM b'IDAT' 3896 16384
+2025-08-16 01:17:17,005 - DEBUG - STREAM b'IHDR' 16 13
+2025-08-16 01:17:17,005 - DEBUG - STREAM b'iCCP' 41 3148
+2025-08-16 01:17:17,005 - DEBUG - iCCP profile name b'ICC Profile'
+2025-08-16 01:17:17,005 - DEBUG - Compression method 0
+2025-08-16 01:17:17,005 - DEBUG - STREAM b'eXIf' 3201 138
+2025-08-16 01:17:17,005 - DEBUG - STREAM b'pHYs' 3351 9
+2025-08-16 01:17:17,005 - DEBUG - STREAM b'iTXt' 3372 471
+2025-08-16 01:17:17,005 - DEBUG - STREAM b'iDOT' 3855 28
+2025-08-16 01:17:17,005 - DEBUG - b'iDOT' 3855 28 (unknown)
+2025-08-16 01:17:17,005 - DEBUG - STREAM b'IDAT' 3895 16384
+2025-08-16 01:17:17,014 - DEBUG - Creating text clip: 'Steak or sushi?...' at position (90, 100)
+2025-08-16 01:17:17,014 - DEBUG - Rendering text image: 'Steak or sushi?...' with font_size=88, max_width=900
+2025-08-16 01:17:17,014 - DEBUG - Loading font from fonts/Renogare-Regular.otf with size 88
+2025-08-16 01:17:17,014 - DEBUG - Font loaded successfully: <PIL.ImageFont.FreeTypeFont object at 0x1350ab350>
+2025-08-16 01:17:17,017 - DEBUG - Creating text clip: 'Or...' at position (490, 1000)
+2025-08-16 01:17:17,017 - DEBUG - Rendering text image: 'Or...' with font_size=72, max_width=200
+2025-08-16 01:17:17,017 - DEBUG - Loading font from fonts/Renogare-Regular.otf with size 72
+2025-08-16 01:17:17,017 - DEBUG - Font loaded successfully: <PIL.ImageFont.FreeTypeFont object at 0x1350ab350>
+2025-08-16 01:17:17,019 - ERROR - Error creating question clip: module 'PIL.Image' has no attribute 'ANTIALIAS'
+2025-08-16 01:17:17,019 - ERROR - Error generating video: module 'PIL.Image' has no attribute 'ANTIALIAS'
+2025-08-16 01:19:51,994 - INFO - Configuration loaded from config.json
+2025-08-16 01:19:51,995 - INFO - Initialized TikTok Video Generator with config: config.json
+2025-08-16 01:19:51,995 - INFO - Output directory: output
+2025-08-16 01:19:51,995 - INFO - Using font: fonts/Renogare-Regular.otf
+2025-08-16 01:19:52,005 - INFO - Starting video generation...
+2025-08-16 01:19:52,019 - DEBUG - Creating text clip: 'Couples Quiz!...' at position (54, 220)
+2025-08-16 01:19:52,019 - DEBUG - Rendering text image: 'Couples Quiz!...' with font_size=96, max_width=972
+2025-08-16 01:19:52,020 - DEBUG - Loading font from fonts/Renogare-Regular.otf with size 96
+2025-08-16 01:19:52,020 - DEBUG - Font loaded successfully: <PIL.ImageFont.FreeTypeFont object at 0x145ca5510>
+2025-08-16 01:19:52,026 - DEBUG - Creating text clip: 'Today's theme is:...' at position (54, 420)
+2025-08-16 01:19:52,027 - DEBUG - Rendering text image: 'Today's theme is:...' with font_size=80, max_width=972
+2025-08-16 01:19:52,027 - DEBUG - Loading font from fonts/Renogare-Regular.otf with size 80
+2025-08-16 01:19:52,027 - DEBUG - Font loaded successfully: <PIL.ImageFont.FreeTypeFont object at 0x145db2ad0>
+2025-08-16 01:19:52,031 - DEBUG - Creating text clip: 'General...' at position (54, 560)
+2025-08-16 01:19:52,031 - DEBUG - Rendering text image: 'General...' with font_size=88, max_width=972
+2025-08-16 01:19:52,031 - DEBUG - Loading font from fonts/Renogare-Regular.otf with size 88
+2025-08-16 01:19:52,031 - DEBUG - Font loaded successfully: <PIL.ImageFont.FreeTypeFont object at 0x145db8990>
+2025-08-16 01:19:52,057 - INFO - Generating hook clip...
+2025-08-16 01:19:52,061 - DEBUG - Starting new HTTPS connection (1): api.elevenlabs.io:443
+2025-08-16 01:19:53,124 - DEBUG - https://api.elevenlabs.io:443 "POST /v1/text-to-speech/pNInz6obpgDQGcFmaJgB HTTP/1.1" 200 None
+2025-08-16 01:19:53,156 - INFO - TTS audio generated: output/hook.mp3
+2025-08-16 01:19:53,339 - DEBUG - Creating text clip: 'If you're partner gets more th...' at position (54, 880)
+2025-08-16 01:19:53,339 - DEBUG - Rendering text image: 'If you're partner gets more th...' with font_size=80, max_width=972
+2025-08-16 01:19:53,340 - DEBUG - Loading font from fonts/Renogare-Regular.otf with size 80
+2025-08-16 01:19:53,340 - DEBUG - Font loaded successfully: <PIL.ImageFont.FreeTypeFont object at 0x145dbabd0>
+2025-08-16 01:19:53,400 - DEBUG - Creating text clip: 'save and share this with them!...' at position (54, 880)
+2025-08-16 01:19:53,400 - DEBUG - Rendering text image: 'save and share this with them!...' with font_size=84, max_width=972
+2025-08-16 01:19:53,400 - DEBUG - Loading font from fonts/Renogare-Regular.otf with size 84
+2025-08-16 01:19:53,405 - DEBUG - Font loaded successfully: <PIL.ImageFont.FreeTypeFont object at 0x145dc1350>
+2025-08-16 01:19:53,439 - INFO - Generating clip for question 1...
+2025-08-16 01:19:53,441 - DEBUG - Starting new HTTPS connection (1): api.elevenlabs.io:443
+2025-08-16 01:19:54,012 - DEBUG - https://api.elevenlabs.io:443 "POST /v1/text-to-speech/pNInz6obpgDQGcFmaJgB HTTP/1.1" 200 None
+2025-08-16 01:19:54,024 - INFO - TTS audio generated: output/question_1.mp3
+2025-08-16 01:19:54,024 - DEBUG - Creating question clip for: 'Steak or sushi?...'
+2025-08-16 01:19:54,194 - DEBUG - Creating text clip: 'Steak or sushi?...' at position (90, 100)
+2025-08-16 01:19:54,194 - DEBUG - Rendering text image: 'Steak or sushi?...' with font_size=88, max_width=900
+2025-08-16 01:19:54,194 - DEBUG - Loading font from fonts/Renogare-Regular.otf with size 88
+2025-08-16 01:19:54,195 - DEBUG - Font loaded successfully: <PIL.ImageFont.FreeTypeFont object at 0x145dc3290>
+2025-08-16 01:19:54,199 - DEBUG - Creating text clip: 'Or...' at position (490, 1000)
+2025-08-16 01:19:54,199 - DEBUG - Rendering text image: 'Or...' with font_size=72, max_width=200
+2025-08-16 01:19:54,199 - DEBUG - Loading font from fonts/Renogare-Regular.otf with size 72
+2025-08-16 01:19:54,199 - DEBUG - Font loaded successfully: <PIL.ImageFont.FreeTypeFont object at 0x145dc0a50>
+2025-08-16 01:19:54,252 - DEBUG - Positioning top image at y=293
+2025-08-16 01:19:54,253 - DEBUG - Positioning 'Or' text at y=1223
+2025-08-16 01:19:54,253 - DEBUG - Positioning bottom image at y=1338
+2025-08-16 01:19:54,276 - INFO - Concatenating video clips...
+2025-08-16 01:19:54,292 - INFO - Writing final video to output/tiktok_quiz_video.mp4...
+2025-08-16 01:20:17,379 - INFO - Video generation complete: output/tiktok_quiz_video.mp4

@@ -6,6 +6,13 @@ A comprehensive Python tool for automatically generating TikTok-style quiz video
 
 A quick couple quiz generator using Elevenlabs api calls, numpy, pillow, moviepy etc. For automating the tikTok process. Make sure that you have Python 3.11 from the official python website and not via homebrew. 
 
+## Notes
+
+Set up a virtual environment. You need PIP. Run python -m pip install --upgrade pip setuptools wheel
+and then python -m pip install -r requirements.txt to gather all the required dependences for the GUI. 
+
+Run python tiktok_gui.py to open the GUI in the venv. 
+
 ## Quick Start
 
 ### 1. Installation

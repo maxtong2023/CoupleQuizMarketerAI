@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/maxtong/Documents/AI Marketer On Steroids/.venv/bin/python3.11" "$0" "$@"
+'''exec' "/Users/maxtong/Documents/AI Marketer On Steroids/.venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
